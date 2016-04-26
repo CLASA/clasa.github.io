@@ -1,0 +1,31 @@
+#+OPTIONS: toc:nil
+#+BEGIN_HTML
+---
+title: "Home"
+bg:    blue
+color: white
+style: center
+---
+#+END_HTML
+
+* CLASA
+*** /Clouds for NASA/ {: .text-purple}
+
+An integrated solution for getting contrail sightings from your mobile
+to the scientists' desktop.
+
+CLASA supplied an online web dashboard where you can report contrail
+sightings. Doing so allows NASA to build a database on contrails, with
+data like where contrails are forming, how long they're hanging around
+for, and what effect they might be having on the environment.
+
+/Sorry/, the app is no longer live. But keep on scrolling for
+screenshots.
+
+#+BEGIN_HTML
+<span id="forkongithub">
+  <a href="{{ site.source_link }}" class="bg-blue">
+    Fork me on GitHub
+  </a>
+</span>
+#+END_HTML
