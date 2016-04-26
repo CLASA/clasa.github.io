@@ -1,4 +1,3 @@
-#+OPTIONS: toc:nil
 #+BEGIN_HTML
 ---
 title: "Home"
@@ -9,8 +8,7 @@ style: center
 #+END_HTML
 
 * CLASA
-*** /Clouds for NASA/ {: .text-purple}
-
+*** /Clouds for NASA/
 An integrated solution for getting contrail sightings from your mobile
 to the scientists' desktop.
 
