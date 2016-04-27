@@ -1,0 +1,12 @@
+#+BEGIN_HTML
+---
+title: "Dashboard"
+bg:    black
+color: white
+style: center
+fa-icon: mobile
+---
+#+END_HTML
+
+** The solution
+TODO

@@ -7,22 +7,32 @@ style: center
 ---
 #+END_HTML
 
-* CLASA
-*** /Clouds for NASA/
+#+ATTR_HTML: :width 80%
+[[/img/clasa-white-transparent.png]]
+
+#+ATTR_HTML: :style font:80px "Raleway Dots"
+#+BEGIN_logo
+Clouds for NASA
+#+END_logo
+
+# * CLASA
+# *** /Clouds for NASA/
 An integrated solution for getting contrail sightings from your mobile
 to the scientists' desktop.
 
 CLASA supplied an online web dashboard where you can report contrail
-sightings. Doing so allows NASA to build a database on contrails, with
-data like where contrails are forming, how long they're hanging around
-for, and what effect they might be having on the environment.
+sightings. Doing so allows NASA to build a database on contrails,
+answering questions like:
+- where contrails are forming?
+- how long are they hanging around for?
+- what effect might they be having on the environment?
 
 /Sorry/, the app is no longer live. But keep on scrolling for
 screenshots.
 
 #+BEGIN_HTML
 <span id="forkongithub">
-  <a href="{{ site.source_link }}" class="bg-blue">
+  <a href="{{ site.source_link }}" class="bg-white" style="color:black">
     Fork me on GitHub
   </a>
 </span>
