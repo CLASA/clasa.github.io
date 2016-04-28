@@ -1,0 +1,46 @@
+#+BEGIN_HTML
+---
+title: "Solution"
+bg:    orange
+color: black
+style: center
+fa-icon: gears
+---
+#+END_HTML
+
+* The solution
+The proposed solution consists of two phases of data collection. In
+Phase I, data collection relies on crowdsourcing, and for
+participation from the public. In Phase II, data collection becomes
+automated and the rate at which data may be collected is
+accelerated. The project is currently in Phase Ⅰ.
+
+#+ATTR_HTML: :style font-size:100px
+#+BEGIN_fa
+#+BEGIN_HTML
+<i class="fa fa-mobile" aria-hidden="true"></i>
+#+END_HTML
+#+END_fa
+** Phase I
+# -- @@html:<i class="fa fa-mobile" aria-hidden="true"></i>@@
+
+/The Dashboard:/ The web dashboard is designed to provide a simple
+platform for users to report contrail sightings, and to upload
+pictures of the contrails. This platform is targeted at users who wish
+to participate and inform NASA altruistically. It is designed to be
+fast and easy to use. A web app is used so that users don't need to
+download the product ahead of time.
+
+/Machine Vision:/ Users are required to upload a picture of the
+sighted contrail with their report. The reason for this is twofold:
+
+- Firstly to provide data integrity. A classifier is able to determine
+  the likelihood that images contain contrails, flagging suspected
+  "problem" users.
+- To provide a large learning dataset for extending to Phase II.
+
+*** Phase IA
+/Note that this part of Phase I is not yet implemented./
+
+/The Game:/ Should the standard web dashboard not attract enough end
+users, alternative markets may be used to acquire users. 

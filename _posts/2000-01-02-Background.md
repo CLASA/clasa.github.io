@@ -6,7 +6,13 @@ style: center
 fa-icon: plane
 ---
 
-# What are contrails?
+# Clouds or Contrails
+
+This product was developed as a part of the NASA Space Apps challenge,
+solving the proposed Clouds or Contrails challenge. This challenge
+sees competitors design an app for identifying and tracking contrails.
+
+## What are contrails?
 
 Contrails are the streaks of clouds left behind planes as they fly
 through the sky. They are formed due to the plane's exhaust causing
