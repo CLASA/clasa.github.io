@@ -1,0 +1,30 @@
+#+BEGIN_HTML
+---
+title: "Vision"
+bg:    purple
+color: white
+style: center
+fa-icon: eye
+---
+#+END_HTML
+
+* Machine Vision
+Machine vision is used to automatically identify the likelihood an
+image contains a contrail. The algorithm developed is explained in
+further detail in the Readme on its [[https://github.com/CLASA/Contrail-Machine-Vision][GitHub page]].
+
+In brief, first image pre-processing ensures that all images arriving
+to the algorithm are consistent, regardless of the camera used or the
+lighting in the image.
+
+[[/img/preprocessing.png]]
+
+Next a set of /features/ are extracted. These are mathematical
+properties of the image that we think might help the computer know if
+contrails are present or not. A /classifier/ is trained using a
+series of input data. For the challenge, this data was obtained using
+Google Images, searching for "contrails" and "cirrus". The classifier
+used was a Random Forest classifier.
+
+The classifier was able to achieve about 75% accuracy. We believe this
+could be greatly improved with some development and a better dataset.

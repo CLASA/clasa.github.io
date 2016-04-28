@@ -43,4 +43,23 @@ sighted contrail with their report. The reason for this is twofold:
 /Note that this part of Phase I is not yet implemented./
 
 /The Game:/ Should the standard web dashboard not attract enough end
-users, alternative markets may be used to acquire users. 
+users, alternative markets may be used to acquire users. Integration
+with existing games further allows an existing user-base to be tapped
+into. CLASA's contrail-spotting platform could be implemented into
+existing virtual reality games. For example Ingress, which has as many
+as 7 million players, could be extended to allow "capture" of
+contrails.
+
+#+ATTR_HTML: :style font-size:100px
+#+BEGIN_fa
+#+BEGIN_HTML
+<i class="fa fa-eye" aria-hidden="true"></i> <i class="fa fa-video-camera" aria-hidden="true"></i>
+#+END_HTML
+#+END_fa
+** Phase II
+After Phase I, a considerable dataset of contrail images is expected
+to have been collected. Using this dataset and lessons learnt
+improving the existing machine vision implementation, a completely
+automated solution will be released. This platform is able to
+recognise contrails in publicly available webcam feeds, and geo-tagged
+photo and video uploads to social media.

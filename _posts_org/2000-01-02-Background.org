@@ -13,6 +13,8 @@ This product was developed as a part of the NASA [[2016.spaceappschallenge.org][
 solving the proposed [[2016.spaceappschallenge.org/challenges/aero/clouds-or-contrails][Clouds or Contrails]] challenge. This challenge
 sees competitors design an app for identifying and tracking contrails.
 
+[[/img/contrail-white-transparent.png]]
+
 ** What are contrails?
 Contrails are the streaks of clouds left behind planes as they fly
 through the sky. They are formed due to the plane's exhaust causing

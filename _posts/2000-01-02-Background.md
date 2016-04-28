@@ -12,6 +12,8 @@ This product was developed as a part of the NASA Space Apps challenge,
 solving the proposed Clouds or Contrails challenge. This challenge
 sees competitors design an app for identifying and tracking contrails.
 
+![img](/img/contrail-white-transparent.png)
+
 ## What are contrails?
 
 Contrails are the streaks of clouds left behind planes as they fly
