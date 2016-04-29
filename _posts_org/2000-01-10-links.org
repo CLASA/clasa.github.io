@@ -8,8 +8,15 @@ fa-icon: link
 ---
 #+END_HTML
 
-* Links
+* Project Links
 - [[https://github.com/CLASA/CLASA][Dashboard code]]
 - [[https://github.com/CLASA/Contrail-Machine-Vision][Machine Vision code]]
-- Promotional video
+- [[https://www.youtube.com/watch?v=yfvrjn5zRJ8][Promotional video]]
 - [[https://2016.spaceappschallenge.org/challenges/aero/clouds-or-contrails/projects/clasa-clouds-for-nasa][Space Apps Solution]]
+- [[https://docs.google.com/presentation/d/1FanFYb9l0Jo0Ypu5xS4SB-7V_gXRcFmwUApxhqDsHa4/][Space Apps Presentation]]
+
+* Resources
+- [[http://www.flightstats.com/go/Home/home.do][FlightStats]] flight information API.
+- [[https://github.com/t413/SinglePaged][SinglePaged]] theme, by Tim O'Brien.
+- [[https://fortawesome.github.io/Font-Awesome/][Font Awesome]] icons, by Dave Gandy.
+- Pillow, NumPy and SciPy Python modules for machine vision.
