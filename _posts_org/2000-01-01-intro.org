@@ -10,10 +10,14 @@ style: center
 #+ATTR_HTML: :width 80%
 [[/img/clasa-white-transparent.png]]
 
-#+ATTR_HTML: :style font:80px "Raleway Dots"
+#+ATTR_HTML: :style font-size:80px; font-size:7vw; font-family:"Raleway Dots";
 #+BEGIN_logo
 Clouds for NASA
 #+END_logo
+
+#+BEGIN_icontain
+#+HTML: <iframe src="//www.youtube.com/embed/yfvrjn5zRJ8" allowfullscreen></iframe>
+#+END_icontain
 
 # * CLASA
 # *** /Clouds for NASA/
